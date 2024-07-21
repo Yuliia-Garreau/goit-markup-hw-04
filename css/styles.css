@@ -44,7 +44,7 @@ body {
   display: flex;
   background-color: #ffffff;
   border-bottom: 1px solid #e7e9fc;
-  width: 1440px;
+
   justify-content: flex-start;
   align-items: baseline;
 }
@@ -136,7 +136,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  max-width: 1440px;
 }
 
 .main-title {
@@ -190,7 +189,7 @@ body {
 
 .features {
   display: flex;
-  width: 1440px;
+
   margin: 0px;
 }
 
